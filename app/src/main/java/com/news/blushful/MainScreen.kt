@@ -77,6 +77,5 @@ fun FeedItem(value: Item, navController: NavController) {
             model = value.enclosure.link,
             contentDescription = "UNN"
         )
-        //ImageView
     }
 }
