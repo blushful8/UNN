@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UNN</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="title_activity_detail_screen">DetailScreen</string>
+</resources>
